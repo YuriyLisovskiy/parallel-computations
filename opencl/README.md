@@ -18,9 +18,9 @@ Package that enables runnig openCL on Intel GT, IvyBridge and up:
 $ sudo apt install beignet
 ```
 
+For more info about the installation, read [this](https://askubuntu.com/questions/850281/opencl-on-ubuntu-16-04-intel-sandy-bridge-cpu/850594) article.
+
 #### Build and Run (Ubuntu 16.04 LTS)
 ```bash
-make
+$ make
 ```
-
-For more info, read [here](https://askubuntu.com/questions/850281/opencl-on-ubuntu-16-04-intel-sandy-bridge-cpu/850594)
