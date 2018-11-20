@@ -3,9 +3,7 @@
 #### Install libraries
 Generic ubuntu packages for OpenCL:
 ```bash
-$ sudo apt-get install ocl-icd-libopencl1
-$ sudo apt-get install opencl-headers
-$ sudo apt-get install clinfo
+$ sudo apt-get install ocl-icd-libopencl1 opencl-headers clinfo
 ```
 
 Package that allows to compile OpenCL code:
